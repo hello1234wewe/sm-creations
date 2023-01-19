@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    text-align:center;
+}
+.line{
+    width:70px;
+    height:10px;
+background-color:#000000;
+margin:8px auto;
+}
